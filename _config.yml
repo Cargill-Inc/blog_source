@@ -1,8 +1,8 @@
 title: Cargill Technology
 description: Technology Blog for Cargill GlobalIT
 
-url: "//git.cglcloud.com/pages/ea/EngineeringBlog"
-baseurl: /pages/ea/EngineeringBlog
+url: "//cargill-inc.github.io"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
