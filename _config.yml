@@ -1,0 +1,29 @@
+title: Cargill Technology
+description: Technology Blog for Cargill GlobalIT
+
+url: "//git.cglcloud.com/pages/ea/EngineeringBlog"
+baseurl: /pages/ea/EngineeringBlog
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: About
+   url: /about
+ - title: Community
+   url: /community
+ - title: Technology
+   url: /technology
+# - title: Contact
+#   url: /contact
+
+social:
+   github: Cargill-Inc
+   twitter: Cargill
+   LinkedIn: Cargill
+   Facebook: Cargill-Inc/137976869578498
+   email: Keith_Narr@Cargill.com
