@@ -2,5 +2,5 @@
 .bundle/config
 .bundle/*
 .sass-cache/*
-Gemfile.lock
+# Gemfile.lock
 _site/*
