@@ -825,7 +825,7 @@ dd {
 
 .header h1 {
     margin: 0;
-    float: left;
+    text-align: right;
     padding-left: 2rem;
     font-size: 1em;
     line-height: 3em;
