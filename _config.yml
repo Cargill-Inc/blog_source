@@ -2,7 +2,7 @@ title: Cargill Technology
 description: Technology Blog for Cargill GlobalIT
 
 url: "//cargill-inc.github.io"
-baseurl: /cargill-inc.github.io
+baseurl: 
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
